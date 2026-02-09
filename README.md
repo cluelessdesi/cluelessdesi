@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cluelessdesi
-- 👀 I’m interested in systems programming, software development & AI
-- 🌱 I’m currently learning compiler design & algorithms
+- 👀 I’m interested in (too many things, but to name a few) systems programming, research, SWE & AI
+- 🌱 I’m currently learning concurrent programming & edge computing 
 - 📫 How to reach me: sufiyanretreat@gmail.com
-- ⚡ Fun fact: I am batman (no fr I am) :)
+- ⚡ Fun fact: big horror & superhero material fan 
 
 <!---
 cluelessdesi/cluelessdesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
